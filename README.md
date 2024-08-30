@@ -2,8 +2,6 @@
 ## Diabetes Predictor
 > Predict Diabetes using Machine Learning.
 
-> Read more about it in my [Blogpost](https://medium.com/@adityamankar09/building-a-diabetes-predictor-4702b99bc7e4).
-
 # **Screenshot**
 
 ![](screenshot.jpg)
